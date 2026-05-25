@@ -1,1 +1,42 @@
-
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tripura Janata Party (TJP)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px 20px;
+            background: #f5f5f5;
+            margin: 0;
+        }
+        h1 {
+            color: #ff6a00;
+            font-size: 48px;
+            margin: 30px 0 10px;
+        }
+        p {
+            font-size: 24px;
+            margin-bottom: 40px;
+        }
+        .btn {
+            background: #ff6a00;
+            color: white;
+            padding: 16px 32px;
+            margin: 10px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-size: 20px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tripura Janata Party</h1>
+    <p>জনতার শক্তি, ত্রিপুরার উন্নতি</p>
+    <a href="#" class="btn">Join TJP</a>
+    <a href="#" class="btn">Download TJP App</a>
+</body>
+</html>
